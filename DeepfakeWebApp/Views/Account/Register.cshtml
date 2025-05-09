@@ -1,0 +1,38 @@
+﻿@model DeepfakeWebApp.Models.User
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header bg-success text-white">
+                    <h4 class="mb-0">Kayıt Ol</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-controller="Account" asp-action="Register" method="post">
+                        <div class="mb-3">
+                            <label class="form-label">Kullanıcı Adı</label>
+                            <input asp-for="Username" class="form-control" />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Şifre</label>
+                            <input asp-for="Password" class="form-control" type="password" />
+                        </div>
+                        <button type="submit" class="btn btn-success w-100">Kayıt Ol</button>
+                    </form>
+
+                    @if (ViewBag.Message != null)
+                    {
+                        <div class="alert alert-info mt-3">
+                            @ViewBag.Message
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="text-center mt-3">
+    <span>Zaten hesabın var mı?</span>
+    <a href="/Account/Login" class="btn btn-link">Giriş Yap</a>
+</div>

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Koray \u00DCNAL\\source\\repos\\DeepfakeWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{890BE175-ECB8-4C4E-BB7F-9E63282C6716}|DeepfakeWebApp\\DeepfakeWebApp.csproj|c:\\users\\koray \u00FCnal\\source\\repos\\deepfakewebapp\\deepfakewebapp\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890BE175-ECB8-4C4E-BB7F-9E63282C6716}|DeepfakeWebApp\\DeepfakeWebApp.csproj|solutionrelative:deepfakewebapp\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890BE175-ECB8-4C4E-BB7F-9E63282C6716}|DeepfakeWebApp\\DeepfakeWebApp.csproj|c:\\users\\koray \u00FCnal\\source\\repos\\deepfakewebapp\\deepfakewebapp\\views\\video\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{890BE175-ECB8-4C4E-BB7F-9E63282C6716}|DeepfakeWebApp\\DeepfakeWebApp.csproj|solutionrelative:deepfakewebapp\\views\\video\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890BE175-ECB8-4C4E-BB7F-9E63282C6716}|DeepfakeWebApp\\DeepfakeWebApp.csproj|c:\\users\\koray \u00FCnal\\source\\repos\\deepfakewebapp\\deepfakewebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890BE175-ECB8-4C4E-BB7F-9E63282C6716}|DeepfakeWebApp\\DeepfakeWebApp.csproj|solutionrelative:deepfakewebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890BE175-ECB8-4C4E-BB7F-9E63282C6716}|DeepfakeWebApp\\DeepfakeWebApp.csproj|c:\\users\\koray \u00FCnal\\source\\repos\\deepfakewebapp\\deepfakewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890BE175-ECB8-4C4E-BB7F-9E63282C6716}|DeepfakeWebApp\\DeepfakeWebApp.csproj|solutionrelative:deepfakewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890BE175-ECB8-4C4E-BB7F-9E63282C6716}|DeepfakeWebApp\\DeepfakeWebApp.csproj|c:\\users\\koray \u00FCnal\\source\\repos\\deepfakewebapp\\deepfakewebapp\\models\\uploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890BE175-ECB8-4C4E-BB7F-9E63282C6716}|DeepfakeWebApp\\DeepfakeWebApp.csproj|solutionrelative:deepfakewebapp\\models\\uploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "C:\\Users\\Koray \u00DCNAL\\source\\repos\\DeepfakeWebApp\\DeepfakeWebApp\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "DeepfakeWebApp\\Controllers\\VideoController.cs",
+              "ToolTip": "C:\\Users\\Koray \u00DCNAL\\source\\repos\\DeepfakeWebApp\\DeepfakeWebApp\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "DeepfakeWebApp\\Controllers\\VideoController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswDQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:49:01.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Koray \u00DCNAL\\source\\repos\\DeepfakeWebApp\\DeepfakeWebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DeepfakeWebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Koray \u00DCNAL\\source\\repos\\DeepfakeWebApp\\DeepfakeWebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DeepfakeWebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:02:29.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\Koray \u00DCNAL\\source\\repos\\DeepfakeWebApp\\DeepfakeWebApp\\Views\\Video\\Upload.cshtml",
+              "RelativeDocumentMoniker": "DeepfakeWebApp\\Views\\Video\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\Koray \u00DCNAL\\source\\repos\\DeepfakeWebApp\\DeepfakeWebApp\\Views\\Video\\Upload.cshtml",
+              "RelativeToolTip": "DeepfakeWebApp\\Views\\Video\\Upload.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T14:30:28.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Koray \u00DCNAL\\source\\repos\\DeepfakeWebApp\\DeepfakeWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "DeepfakeWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Koray \u00DCNAL\\source\\repos\\DeepfakeWebApp\\DeepfakeWebApp\\Program.cs",
+              "RelativeToolTip": "DeepfakeWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:53:13.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UploadModel.cs",
+              "DocumentMoniker": "C:\\Users\\Koray \u00DCNAL\\source\\repos\\DeepfakeWebApp\\DeepfakeWebApp\\Models\\UploadModel.cs",
+              "RelativeDocumentMoniker": "DeepfakeWebApp\\Models\\UploadModel.cs",
+              "ToolTip": "C:\\Users\\Koray \u00DCNAL\\source\\repos\\DeepfakeWebApp\\DeepfakeWebApp\\Models\\UploadModel.cs",
+              "RelativeToolTip": "DeepfakeWebApp\\Models\\UploadModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:52:19.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

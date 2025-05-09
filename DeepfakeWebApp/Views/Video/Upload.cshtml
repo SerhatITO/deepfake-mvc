@@ -1,0 +1,39 @@
+﻿@model DeepfakeWebApp.Models.UploadModel
+
+<h2>Video Yükle</h2>
+
+<form asp-controller="Video" asp-action="Upload" method="post" enctype="multipart/form-data">
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card shadow-lg">
+                    <div class="card-header bg-primary text-white">
+                        <h4 class="mb-0">Video Yükle</h4>
+                    </div>
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <label class="form-label">Video dosyası seçin:</label>
+                            <input type="file" asp-for="VideoFile" class="form-control" />
+                        </div>
+                        <button type="submit" class="btn btn-success w-100">Yükle</button>
+
+                        @if (ViewBag.Message != null)
+                        {
+                            <div class="alert alert-danger mt-3" role="alert">
+                                @ViewBag.Message
+                            </div>
+                        }
+
+                        @if (ViewBag.Label != null && ViewBag.Confidence != null)
+                        {
+                            <div class="alert alert-info mt-3" role="alert">
+                                <strong>Sonuç:</strong> @ViewBag.Label<br />
+                                <strong>Güven:</strong> @ViewBag.Confidence
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
